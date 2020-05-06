@@ -2,10 +2,10 @@
     <div>
     	<iframe id="splash" width="960" height="480" src="banners/splash.html"></iframe>
         <div style="top: 70px;font-size: 75px;font-weight: bold;">
-        	What Happens Next?
+        	Kas bus toliau?
        	</div>
 		<div style="font-weight: 500;top: 140px;left: 10px;font-size: 29px;">
-			COVID-19 Futures, Explained With Playable Simulations
+			COVID-19 galimybės, paaiškinta su simuliacijomis
 		</div>
 		<div style="font-weight: 100;top: 189px;left: 10px;font-size: 19px;line-height: 21px;">
 			<b>
@@ -22,9 +22,12 @@
 	</div>
 </div>
 
-"The only thing to fear is fear itself" was stupid advice.
+"Vienintelis dalykas kurio reikia bijoti tai pati baimė" nebuvo protingas patarimas.
 
-Sure, don't hoard toilet paper – but if policymakers fear fear itself, they'll downplay real dangers to avoid "mass panic". Fear's not the problem, it's how we *channel* our fear. Fear gives us energy to deal with dangers now, and prepare for dangers later.
+Taip, nereikia kaupti tualetinio popieriaus, bet jeigu sprendimų priėmėjai bijos pačios baimės jie nuvertins tikrąją grėsmę, tam kad išvengti "masinės panikos". Baimė nėra problema, problema yra tai, kaip mes su baime susitvarkom. Baimė priverčia mus su pavojais susitvarkyti dabar ir pasiruošti pavojams ateityje.
+
+Jeigu atvirai, tai mes (Marcel, epidemiologas ir Nicky menas/kodas) esam sunerimę. Spėjam kad ir jūs taip pat! Todėl mes 
+nukreipėme savo baimę tam kad sukurti šias **simuliacijas** tam kad *jūs* galėtume savo baimę paversti supratimu kas
 
 Honestly, we (Marcel, epidemiologist + Nicky, art/code) are worried. We bet you are, too! That's why we've channelled our fear into making these **playable simulations**, so that *you* can channel your fear into understanding:
 
